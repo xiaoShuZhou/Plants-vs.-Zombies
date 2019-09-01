@@ -7,3 +7,6 @@
 4.	IDE（integrated development environment）集成开发环境：
 包括：translator, debugger, Syntax highlighting and automation tool(语法高亮和自动识别（下拉选择）)，project manager(directory, page…)
 配置IDE: 选择一项translator(例如：python.exe)即可—（下载一门语言，实际上是下载了这个语言的translator和系统包）
+
+**2019.9.1**
+**植物大战僵尸开发day 1**
