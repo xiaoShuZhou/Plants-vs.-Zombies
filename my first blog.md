@@ -8,5 +8,15 @@
 包括：translator, debugger, Syntax highlighting and automation tool(语法高亮和自动识别（下拉选择）)，project manager(directory, page…)
 配置IDE: 选择一项translator(例如：python.exe)即可—（下载一门语言，实际上是下载了这个语言的translator和系统包）
 
-**2019.9.1**
-**植物大战僵尸开发day 1**
+**2019.9.1**  
+**植物大战僵尸开发day 1**  
+
+**The difference between language, compiler, interpreter, and integrated development environment (IDE)**
+1. Language is divided into compiled language (C, C#, C++, JAVA) and interpreted language (python)
+2. The compiler and interpreter are translators, translators (editors)
+3. The compiled language is written on the compiler, which the compiler compiles into machine language and executes
+The interpreted language is written on the interpreter and executed directly by the interpreter
+(But the interpreter kernel also compiles, just compile and execute the synchronization, so you don't have to distinguish between the complier and the interpreter, you can understand it as a translator)
+4. IDE (integrated development environment) integrated development environment:
+Includes: translator, debugger, Syntax highlighting and automation tool, syntax manager (directory, page...)
+Configure the IDE: Select a translator (for example: python.exe) - (download a language, actually download the translator and system package for this language)
